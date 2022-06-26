@@ -1,0 +1,48 @@
+{
+  "clubes": [
+    {
+      "id": 1,
+      "nome": "Clube de otakus",
+      "categoria": "entreterimento",
+      "quantIntegrantes": "10",
+      "descricao": "Assistir animizin"
+    },
+    {
+      "nome": "Risadinha",
+      "categoria": "Comedia",
+      "quantIntegrantes": "15",
+      "id": 2,
+      "descricao": "Stand up testers"
+    },
+    {
+      "nome": "dsasda",
+      "categoria": "asdasda",
+      "quantIntegrantes": "22",
+      "descricao": "adasda",
+      "id": 3
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "usuario": "savio",
+      "nome": "savio1",
+      "senha": "123456",
+      "ConfirmSenha": "123456"
+    },
+    {
+      "id": "139",
+      "nome": "savio",
+      "usuario": "savio1",
+      "senha": "123456",
+      "ConfirmSenha": "123456"
+    },
+    {
+      "id": "235",
+      "nome": "fegtr",
+      "usuario": "ew4rt",
+      "senha": "123123",
+      "ConfirmSenha": "123123"
+    }
+  ]
+}
